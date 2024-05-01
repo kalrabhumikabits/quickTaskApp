@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuickTask</string>
+    <string name="back4app_client_key">zgf4y8gETjAvVX8SN24ZT8OoV6zqUbCL6ZPrGdCh</string>
+    <string name="back4app_app_id">oMqqkhMMmyBD2WqI3Ghkm4rL3FidkJluUdpAHBfJ</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">LOGIN</string>
+    <string name="don_t_have_an_account">Do not have an account</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="logout">LOGOUT</string>
+    <string name="logout_menu">Logout</string>
+    <string name="add_item_menu">"Add a new task "</string>
+</resources>
